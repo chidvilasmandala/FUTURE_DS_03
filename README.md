@@ -1,18 +1,18 @@
 # FUTURE_DS_03 – Marketing Funnel & Conversion Analysis
 
-## 📊 Tools Used
+##  Tools Used
 - Microsoft Excel
 - Power BI
 - Data Visualization
 - Funnel Analysis
 - KPI Tracking
 
-## 📂 Project Features
+##  Project Features
 - Funnel Analysis Dashboard
 - Conversion Rate Analysis
 - Marketing Insights
 - Lead & Customer Analysis
 
-## 👨‍💻 Author
+##  Author
 Mandala Chidvilas  
 Data Science & Analytics Intern
